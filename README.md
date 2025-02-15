@@ -227,4 +227,4 @@ DeepClaude is a free and open-source project by [Asterisk](https://asterisk.so/)
 
 <div align="center">
 Made with ❤️ by <a href="https://asterisk.so">Asterisk</a>
-</div>
+</div> 
